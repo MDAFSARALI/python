@@ -1,0 +1,10 @@
+a=input("Enter the name of one fruit\n")
+b=input("Enter the name of one fruit\n")
+c=input("Enter the name of one fruit\n")
+d=input("Enter the name of one fruit\n")
+e=input("Enter the name of one fruit\n")
+f=input("Enter the name of one fruit\n")
+g=input("Enter the name of one fruit\n")
+string=[a,b,c,d,e,f,g]
+print (string)
+print(a,b,c,d,e,f,g)

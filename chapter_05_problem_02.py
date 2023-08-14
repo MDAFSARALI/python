@@ -1,0 +1,10 @@
+a=int (input("Enter the 1st number\n"))
+b=int (input("Enter the 2nd number\n"))
+c=int (input("Enter the 3rd number\n"))
+d=int (input("Enter the 4th number\n"))
+e=int (input("Enter the 5th number\n"))
+f=int (input("Enter the 6th number\n"))
+g=int (input("Enter the 7th number\n"))
+h=int (input("Enter the 8th number\n"))
+afsar={a,b,c,d,e,f,g,h}
+print (afsar)
